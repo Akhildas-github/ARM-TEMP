@@ -9,7 +9,7 @@
       "value": "azureadmin@123"
     },
     "dnsLabelPrefix": {
-      "value": "Test-VM"
+      "value": "armtemptestvm"
     }
   }
 }
